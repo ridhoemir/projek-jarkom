@@ -94,8 +94,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"24\" width=\"100\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">10.10.13.1/24</text></svg>",
-                "x": -339,
-                "y": 195,
+                "x": -321,
+                "y": 180,
                 "z": 2
             },
             {
@@ -166,8 +166,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"100\" width=\"200\"><rect fill=\"#ffffff\" fill-opacity=\"1.0\" height=\"100\" stroke=\"#ffffff\" stroke-width=\"2\" width=\"200\" /></svg>",
-                "x": -990,
-                "y": 248,
+                "x": -960,
+                "y": 233,
                 "z": 1
             },
             {
@@ -2002,8 +2002,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 2,
-                "y": 204,
+                "x": 21,
+                "y": 177,
                 "z": 1
             },
             {
@@ -2089,8 +2089,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 9,
-                "y": 283,
+                "x": 16,
+                "y": 265,
                 "z": 1
             },
             {
@@ -2624,5 +2624,5 @@
     "type": "topology",
     "variables": null,
     "version": "2.2.20",
-    "zoom": 82
+    "zoom": 41
 }
